@@ -1,4 +1,28 @@
-# ATLAS and the Steam edition of GeoGuessr
+# GeoGuessr Steam Cheat: ATLAS on the Steam Edition
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr Steam cheat logo" width="110" />
+</p>
+
+<p align="center">
+  <b>A cheat that works on the Steam client, not only in a browser tab.</b><br/>
+  Driven by the ATLAS Windows app, in Move, No Move and NMPZ, on the licence key you already own.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/atlas-geoguessr-steam/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr Steam cheat" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-steam?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://geoguessrcheats.com/plans"><img alt="Get ATLAS for the Steam edition" src="https://img.shields.io/badge/Get%20ATLAS-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Steam questions" src="https://img.shields.io/badge/Discord-Ask%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Works with GeoGuessr on Steam" src="https://img.shields.io/badge/client-Steam-171a21?style=for-the-badge&logo=steam&logoColor=white">
+  <img alt="Added in version 1.6" src="https://img.shields.io/badge/since-v1.6-FF6600?style=for-the-badge">
+  <img alt="Windows only" src="https://img.shields.io/badge/platform-Windows%20only-0078D6?style=for-the-badge&logo=windows">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-windows-app">The app that drives it</a> &middot;
+  <a href="https://geoguessrcheats.com/platforms">Comparison</a>
+</p>
 
 GeoGuessr on Steam is not the website in a frame. It is its own client, and tools
 built for a browser tab tend to do nothing at all in front of it. That is why this
