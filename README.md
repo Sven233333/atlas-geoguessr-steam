@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-steam/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr Steam cheat" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-steam?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://geoguessrcheats.com/plans"><img alt="Get ATLAS for the Steam edition" src="https://img.shields.io/badge/Get%20ATLAS-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Steam questions" src="https://img.shields.io/badge/Discord-Ask%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/zaJLtiQpAOc"><img alt="Watch the ATLAS GeoGuessr Steam cheat on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Works with GeoGuessr on Steam" src="https://img.shields.io/badge/client-Steam-171a21?style=for-the-badge&logo=steam&logoColor=white">
   <img alt="Added in version 1.6" src="https://img.shields.io/badge/since-v1.6-FF6600?style=for-the-badge">
   <img alt="Windows only" src="https://img.shields.io/badge/platform-Windows%20only-0078D6?style=for-the-badge&logo=windows">
@@ -30,10 +31,14 @@ gets its own page instead of a line in a feature list.
 
 ATLAS plays it. Same Windows app, same licence key, no separate purchase.
 
-![The ATLAS desktop app driving the Steam edition, four street views with the prediction beside them](images/platforms-steam.webp)
+![The ATLAS desktop app driving the Steam edition, with Steam mode on and the predicted country beside the round](images/steam-app-window.webp)
 
 Pricing: **[geoguessrcheats.com/plans](https://geoguessrcheats.com/plans)**
 Where it sits among the others: **[geoguessrcheats.com/platforms](https://geoguessrcheats.com/platforms)**
+
+Running on the Steam client:
+
+[![The ATLAS GeoGuessr Steam cheat during a duel on the Steam edition, video on YouTube](images/video-steam-cheat.jpg)](https://youtu.be/zaJLtiQpAOc)
 
 ---
 
