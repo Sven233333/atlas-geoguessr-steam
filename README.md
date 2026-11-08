@@ -40,6 +40,12 @@ Running on the Steam client:
 
 [![The ATLAS GeoGuessr Steam cheat during a duel on the Steam edition, video on YouTube](images/video-steam-cheat.jpg)](https://youtu.be/zaJLtiQpAOc)
 
+## Guides on the site
+
+- [GeoGuessr Steam cheat: the full guide](https://geoguessrcheats.com/geoguessr-steam-cheat)
+- [GeoGuessr bot that plays for you](https://geoguessrcheats.com/geoguessr-bot)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+
 ---
 
 ## Arrived in v1.6
