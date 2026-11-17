@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/geoguessr-cheats"><b>All platforms</b></a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-windows-app">The app that drives it</a> &middot;
   <a href="https://geoguessrcheats.com/platforms">Comparison</a>
 </p>
@@ -57,6 +57,12 @@ same way it does in a browser.
 
 All three movement rulesets are covered. Move, No Move, and NMPZ.
 
+## In the current app
+
+The live release is V2.1, from 6 November 2026. Steam is a switch on each bot's
+page there, on the same row as the choice between Chrome and Firefox. Set it to
+On and that bot plays the Steam client instead of a browser tab.
+
 ## What you need
 
 - A Windows machine. Windows 10 or 11, 64 bit.
@@ -78,7 +84,7 @@ extension is your route and it is covered in the
 
 1. Install GeoGuessr from Steam and sign in once.
 2. Install ATLAS and paste your key.
-3. Turn on Steam mode in the app.
+3. Set Steam to On on the bot's page.
 4. Choose your ruleset and start. From here it is hands off.
 
 ## Questions
@@ -105,7 +111,7 @@ Then use the browser route or the desktop app against the website. See
 ## Related repositories
 
 The complete picture is in
-[Atlas-geoguessr-bot](https://github.com/Sven233333/Atlas-geoguessr-bot). The app
+[geoguessr-cheats](https://github.com/Sven233333/geoguessr-cheats). The app
 that does the work here is documented in
 [atlas-geoguessr-windows-app](https://github.com/Sven233333/atlas-geoguessr-windows-app).
 
